@@ -1,4 +1,4 @@
-# learning as a software engineer for 10 years
+# Learning as a software engineer for 10 years
 Hello, my name is Dios. I've been working as a software engineer for 10 years. Here is a summary of my experiences and challenges: 
   * Binus University (Education, Platform) (3 years)
     * Research Team
